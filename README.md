@@ -3,7 +3,9 @@ Project developed during the "Project And Laboratory on Communication Systems" c
 in collaboartion with Eugenio Cardonatti and Tommaso Guario
 
 HelloLED <-- gadgeteer code
+
 WpfApplication1_final <-- server code
+
 sito <-- Website made to show MySql data saved by server
 
 The board take a foto, send the foto to the server, then if a face is detect (server use EMGU CV) the board unlocks.
