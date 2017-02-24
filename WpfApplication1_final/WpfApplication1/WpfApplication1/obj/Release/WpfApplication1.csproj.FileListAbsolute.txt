@@ -1,0 +1,9 @@
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache

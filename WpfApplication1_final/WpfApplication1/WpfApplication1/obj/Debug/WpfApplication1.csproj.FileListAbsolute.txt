@@ -1,0 +1,145 @@
+c:\users\eugenio\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.pdb
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.xml
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Eugenio\Desktop\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.xml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.pdb
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.xml
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\eugen\OneDrive\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\MySql.Data.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\MySql.Data.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.pdb
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.xml
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\eugen\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.dll
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\ZedGraph.dll
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\bin\Debug\Emgu.CV.World.xml
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Eugenio\Documents\Visual Studio 2013\Projects\WpfApplication1_final\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
