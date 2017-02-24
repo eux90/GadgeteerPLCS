@@ -14,5 +14,5 @@ After some wrong attemp to unlock the board with an image a pin pad is shown to 
 
 Due to problems with the network interface of FezSpiderII (board loses packets during transmission)
 the image is splitted in several small packets before it is sent to the server. 
-That helped in reducing trasmission time since TCP can recover quickly from losses of small packets.
+That helped in reducing trasmission time since board can recover quickly from losses of small packets.
 
